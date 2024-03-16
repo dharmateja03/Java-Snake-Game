@@ -1,2 +1,2 @@
-# Java-Snake-Game
-A Classic retro Snake Game in Java
+## Java-Snake-Game
+A Classic retro Snake Game in Java is an excellent way to understand the fundamentals of Java programming, including graphical user interface (GUI) elements, handling keyboard events, and basic game logic. This detailed guide will walk you through building your version of the Snake game, featuring step-by-step instructions, code snippets, and explanations to ensure you grasp the concepts involved.
